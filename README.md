@@ -1,4 +1,4 @@
-# Recipe Recommender based on Ingredients Project
+#Improved ingredients-based recipe recommendation software using machine learning
 
 A mobile application that helps useres find different recipes based on their preferences and available ingredients. The frontend is built using Flutter and backend is built using Python and Flask.
 
